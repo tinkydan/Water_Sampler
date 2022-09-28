@@ -1,4 +1,4 @@
-# Water_Sampler
+# Water Sampler
 This project is a concept for a sterile water sampler that can be deployed to capture water samples at a specific depth.
 
 <br>BOM
@@ -14,3 +14,7 @@ This project is a concept for a sterile water sampler that can be deployed to ca
 <br>![image](https://user-images.githubusercontent.com/88251816/192658108-d8ce8ce3-bf58-4c88-a660-c20e57aef139.png)
 <br>Syringe Plunger Clip
 <br>![image](https://user-images.githubusercontent.com/88251816/192657893-fcfa56f8-0128-4c49-a2e4-a72a7c3288a3.png)
+
+Prototype 
+![PXL_20220928_002417636 (1)](https://user-images.githubusercontent.com/88251816/192660704-502a1715-08cd-41df-88bf-8f64792c7fdf.jpg)
+
